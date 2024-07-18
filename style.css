@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+}
+
+h1{
+    margin: 0px;
+    text-align: center;
+    font-size: 8vw;
+}
+
+h2{
+    font-weight: lighter;
+    text-align: center;
+    font-size: 14px;
+}
+
+header{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 100px;
+}
+
+div{
+    margin-bottom: 100px;
+}
+
+p{
+    display: inline-block;
+    font-family: Sriracha;
+    color: black;
+    font-size: 3.5vw;
+    margin: 5px 0px 5px 40px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.textbox{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.493);
+}
+
+.img1{
+    background-image: url(imagens/background001.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center right;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.img2{
+    background-image: url(imagens/background002.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    background-position: center right;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
